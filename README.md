@@ -26,6 +26,9 @@ Python • PyTorch • PyTorch3D • Open3D • Detectron2 • MiDaS • SAM •
 🚀 Featured Projects
 
 👉 Human3D – Context-aware 3D reconstruction pipeline (MiDaS → Detectron2 → Open3D → PyTorch3D)
+
 👉 Anvya – Representation-guided 3D molecular reasoning engine
+
 👉 Physics-informed ML – Joint torque and force inference with differentiable constraints
+
 👉 Adaptive Prosthesis System – Real-time FMG-based control with drift correction
